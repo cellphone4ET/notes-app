@@ -8,3 +8,5 @@ module.exports = getNotes;
 //   return x + y;
 // }
 // module.exports =  add;
+
+console.log('hi')
